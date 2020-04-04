@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/vc-30/vc-30.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A software developer from India. Currently working on utilizing Deep learning techniques for solving Computer Vision problems and further make it run on resource constrained Embedded Platforms. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vc-30/vc-30.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Projects I have worked on during my free time and as a part of professional career involved use of following technical skills:
+  - C, C++, and Python
+  - Experience with ROS, ROS2 (preferred in industry)
+  - Deep learning frameworks like Caffe, Pytorch.
+  - OpenCV
+  - Embedded hardware platforms like 8051, Atmega 16, ARM 7, ARM - Cortex M4
+  - Source version control tools: Git, SVN, IBM-RTC
+  - Basic Shell Scripting
+  
+My current research interest majorly are in the field of Robotics and Computer Vision.
+  
+I am yet to update this page completely, but you can find some of my work at this link [[1]](https://github.com/vc-30).
